@@ -357,7 +357,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/031f212f-808a-4236-b7ca-5da2510b5fa9)
+![image](https://github.com/user-attachments/assets/4c8d45cb-69cd-401d-b993-fdac76197079)
+
 
 
 ## RESULT:
