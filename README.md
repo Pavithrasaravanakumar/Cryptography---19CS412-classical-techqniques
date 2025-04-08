@@ -513,11 +513,7 @@ void decipher() {
 }
 ```
 ## OUTPUT:
-OUTPUT :
 ![image](https://github.com/user-attachments/assets/653590b0-0708-42b4-8f21-b90d5f7e9c44)
-
-
-Simulating Vigenere Cipher
 
 ## RESULT:
 The program is executed successfully.
