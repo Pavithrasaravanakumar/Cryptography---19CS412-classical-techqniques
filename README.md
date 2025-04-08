@@ -520,7 +520,7 @@ OUTPUT :
 Simulating Vigenere Cipher
 
 ## RESULT:
-The program is executed successfully
+The program is executed successfully.
 
 -----------------------------------------------------------------------
 
